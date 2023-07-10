@@ -7,7 +7,7 @@ For example, if licensePlate = "aBc 12c", then it contains letters 'a', 'b' (ign
 
 Return the shortest completing word in words. It is guaranteed an answer exists. If there are multiple shortest completing words, return the first one that occurs in words.
 
-##Considerações sobre o código
+## Considerações sobre o código
 - O primeiro caso funciona com sucesso;
 - Contudo, no segundo caso imprime um resultado diferente do esperado;
 - Imagino que seja questão de parar pra pensar com frieza, porém, até o momento não consegui pensar em uma forma de consertar.
