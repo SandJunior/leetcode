@@ -1,15 +1,10 @@
-# Sandro Frizon Junior (M1) - LeetCode 748. Shortest Completing Word
-Given a string licensePlate and an array of strings words, find the shortest completing word in words.
+# Sandro Frizon Junior (M1) - Leetcode 2335. Minimum Amount of Time to Fill Cups
 
-A completing word is a word that contains all the letters in licensePlate. Ignore numbers and spaces in licensePlate, and treat letters as case insensitive. If a letter appears more than once in licensePlate, then it must appear in the word the same number of times or more.
+You have a water dispenser that can dispense cold, warm, and hot water. Every second, you can either fill up 2 cups with different types of water, or 1 cup of any type of water.
 
-For example, if licensePlate = "aBc 12c", then it contains letters 'a', 'b' (ignoring case), and 'c' twice. Possible completing words are "abccdef", "caaacab", and "cbca".
-
-Return the shortest completing word in words. It is guaranteed an answer exists. If there are multiple shortest completing words, return the first one that occurs in words.
+You are given a 0-indexed integer array amount of length 3 where amount[0], amount[1], and amount[2] denote the number of cold, warm, and hot water cups you need to fill respectively. Return the minimum number of seconds needed to fill up all the cups.
 
 ## Considerações sobre o código
-- O primeiro caso funciona com sucesso;
-- Contudo, no segundo caso imprime um resultado diferente do esperado;
-- Imagino que seja questão de parar pra pensar com frieza, porém, até o momento não consegui pensar em uma forma de consertar.
+- O resultado esperado é entregue dentro do compilador e no Leetcode.
 
-![image](https://github.com/SandJunior/leetcode/assets/114614503/10915eb1-9ead-40f8-b830-b9c861f7167c)
+![image](https://github.com/SandJunior/leetcode/assets/114614503/e93b4dd3-28b4-4250-b1f7-3918eddc0f7f)
