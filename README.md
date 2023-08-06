@@ -6,7 +6,7 @@ You are given a 0-indexed integer array amount of length 3 where amount[0], amou
 
 ## Considerações sobre o código
 - O resultado dos três casos do Leetcode funcionam e são aceitos;
-- O primeiro caso consiste na entrada com o vetor [1, 4, 2] e saída de 4;
+- O primeiro caso consiste na entrada com o vetor [1, 4, 2] e saída de 4 segundos;
 - O segundo caso consiste na entrada com o vetor [5, 4, 4] e saída de 7 segundos;
 - O terceiro caso consiste na entrada com o vetor [5, 0, 0] e saída de 5 segundos.
 
