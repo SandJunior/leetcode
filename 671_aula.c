@@ -1,17 +1,3 @@
-//Aluno: Sandro Frizon Junior
-#include <stdio.h>
-#include <stdlib.h>
-
-int main() {
-    int root[] = {2,2,2};
-    int size = 3;
-
-    int dontHave = findSecondMinimumValue;
-    printf ("-1", &dontHave);
-    
-    return 0;
-}
-
 struct TreeNode {
     int val;
     struct TreeNode *left;
