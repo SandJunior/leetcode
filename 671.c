@@ -28,7 +28,7 @@ int findSecondMinimumValue ( struct TreeNode* root ) {
     }
 
     if ( left != -1 && right != -1 ) {
-        return (left < right) ? left : right;
+        return ( left < right ) ? left : right;
     }
     else if ( left != -1 ) {
         return left;
