@@ -9,5 +9,5 @@ If no such second minimum value exists, output -1 instead.
 ## Considerações sobre o código
 - O resultado dos dois casos de exemplo do Leetcode dão certo e o código é aceito;
 - O primeiro caso consiste na entrada com a árvore [2,2,5,null,null,5,7] e saída de valor 5;
-- O segundo caso ocorre quando não há um segundo menor valor na entrada da árvore [2 ,2 , 2], então acaba retornando -1 nesse caso;
+- O segundo caso ocorre quando não há um segundo menor valor na entrada da árvore [2 ,2 , 2], então acaba retornando -1 nesse caso.
 - ![image](https://github.com/SandJunior/leetcode/assets/114614503/b9143177-1d31-4c64-a771-e24ffe0efc0f)
