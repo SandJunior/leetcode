@@ -1,2 +1,2 @@
 # Leetcode
-Repositório referente ao armazenamento de exercícios práticos do site Leetcode.
+Repositório referente ao armazenamento de exercícios práticos do Leetcode.
